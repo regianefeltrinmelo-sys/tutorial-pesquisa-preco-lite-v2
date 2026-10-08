@@ -25,4 +25,17 @@
 
 ![Acesso ao Pesquisa de Preços Lite](Imagens/Tela_XXX.png)
 
+# INICIANDO OU RECUPERANDO UMA PESQUISA
+
+**Passo 05:** Caso deseje iniciar uma pesquisa do zero (com ou sem login), clique no botão **Nova Pesquisa** e continue a seguir as instruções a partir do Passo 07.
+
+![Nova Pesquisa](Imagens/PPLite-1.png)
+
+**Passo 06 (Recuperação):** Caso deseje recuperar pesquisas anteriores ou garantir que sua nova consulta fique salva, clique em **Entrar com GOV.BR** no canto superior direito e faça a autenticação com seu CPF e senha.
+
+![Autenticação Gov.br](Imagens/PPLite-1A.png)
+
+Após o login, a página inicial exibirá a lista **Minhas Pesquisas**. Para recuperar uma consulta salva anteriormente e continuar a edição ou emitir relatórios, localize a pesquisa desejada e clique no ícone de **Abrir/Visualizar** (ou no título da pesquisa).
+
+![Lista Minhas Pesquisas](Imagens/PPLite-1B.png)
 
