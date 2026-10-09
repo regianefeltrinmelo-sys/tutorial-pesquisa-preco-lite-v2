@@ -1,4 +1,4 @@
-site_name: Pesquisa de Preços Lite - Tutorial do Usuário
+site_name: Pesquisa de Preços Lite - Manual do Usuário
 
 theme:
   name: readthedocs
@@ -9,10 +9,9 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - 1. Acessando o sistema: 01-acessando-sistema.md
-  - 2. Iniciando ou recuperando pesquisa: 02-iniciando-recuperando-pesquisa.md
-  - 3. Adicionando e gerenciando itens: 03-adicionando-gerenciando-itens.md
-  - 4. Indicadores e relatórios: 04-indicadores-relatorios.md
+  - 1. Acesso e Recuperação: 01-acesso-e-recuperacao.md
+  - 2. Pesquisa e Edição de Itens: 02-pesquisa-e-edicao-de-itens.md
+  - 3. Análise e Relatórios: 03-analise-e-relatorios.md
   - 🖨️ Versão Completa para Impressão: manual-completo.md
 
 # Configuração dos estilos e scripts customizados
